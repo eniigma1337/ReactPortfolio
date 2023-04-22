@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply text-lg
+}
+
+.projects img {
+    width: 100%;
+}
+
+
+.text-accent {
+    color: #00ae23;
+}
+
+
+nav li a {
+    @apply px-5 py-5;
+}
+
+nav li a:hover {
+    color: green;
+}
+
+.intro {
+  font-family: 'Bradley Hand';
+  line-height: 1.5 !important;
+}
+
+.mobile-nav {
+    @apply fixed top-10 w-full h-full py-5 bg-slate-800 duration-300;
+}
+
+.bg-primary {
+  background: #121212;
+}
+
+.bg-secondary {
+  background: #242424;
+}
+
+.bg-accent {
+  background: #00ae23;
+}
+
+
+

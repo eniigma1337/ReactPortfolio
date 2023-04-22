@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Bachelor Of Technology",
+    "school": "NIT Jamshedpur, India"
+  },
+  {
+    "id": 2,
+    "name": "Web Development",
+    "school": "Humber College, Toronto"
+  },
+  {
+    "id": 3,
+    "name": "Mobile Application Development",
+    "school": "George Brown College, Toronto"
+  }
+]
